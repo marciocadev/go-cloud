@@ -7,7 +7,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/sqs"
 
-	q "github.com/marciocadev/multicloud/cloud/aws"
+	q "github.com/marciocadev/go-cloud/cloud/aws"
 )
 
 type CloudProvider int

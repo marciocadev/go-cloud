@@ -1,4 +1,4 @@
-module github.com/marciocadev/multicloud
+module github.com/marciocadev/go-cloud
 
 go 1.22.2
 
